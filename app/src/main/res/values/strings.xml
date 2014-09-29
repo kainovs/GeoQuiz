@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Question text</string>
+    <string name="action_settings">Settings</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+    <string name="question_oceans">Тихий океан больше Атлантического.</string>
+    <string name="question_mideast">Суэтский канал соединяет Красное море и в Индийиский океан.</string>
+    <string name="question_africa">Нил самая большая река в Египте.</string>
+    <string name="question_americas">Амазонка самая длинная река в Америке.</string>
+    <string name="question_asia">Озеро Байкал мировой запас питьевой воды.</string>
+
+</resources>
